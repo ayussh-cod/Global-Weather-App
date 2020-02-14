@@ -1,0 +1,75 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "E:\\Web Development\\Global Weather Web App- React.js, Asp.net Core ApI\\Weather.Persistence\\Weather.Persistence.csproj"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Usamaahmad\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Web Development\\Global Weather Web App- React.js, Asp.net Core ApI\\GlobalWeatherPractice\\GlobalWeatherReact.csproj",
+      "projectName": "GlobalWeatherReact",
+      "projectPath": "E:\\Web Development\\Global Weather Web App- React.js, Asp.net Core ApI\\GlobalWeatherPractice\\GlobalWeatherReact.csproj",
+      "packagesPath": "C:\\Users\\Usamaahmad\\.nuget\\packages\\",
+      "outputPath": "E:\\Web Development\\Global Weather Web App- React.js, Asp.net Core ApI\\GlobalWeatherPractice\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Usamaahmad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "E:\\Web Development\\Global Weather Web App- React.js, Asp.net Core ApI\\Weather.Persistence\\Weather.Persistence.csproj": {
+              "projectPath": "E:\\Web Development\\Global Weather Web App- React.js, Asp.net Core ApI\\Weather.Persistence\\Weather.Persistence.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'E:\\Web Development\\Global Weather Web App- React.js, Asp.net Core ApI\\Weather.Persistence\\Weather.Persistence.csproj'. Inside Visual Studio, this may be because the project is unloaded or not part of current solution. Otherwise the project file may be invalid or missing targets required for restore.",
+      "libraryId": "E:\\Web Development\\Global Weather Web App- React.js, Asp.net Core ApI\\Weather.Persistence\\Weather.Persistence.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.0"
+      ]
+    }
+  ]
+}
